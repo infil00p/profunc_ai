@@ -1,7 +1,10 @@
 # Profunc Next Generation
 
-This is the Canadian Surveillance LLM.  These are the tools that I'm currently using to scan in all the PDFs that I received from the RCMP
-between 2010 and 2014 when working on Paroxysms.ca and profunc.ca.
+These are some scripts I generated real quick so I can navigate my 4 GB of PDF data that I collected for four years on the RCMP and CSIS with
+respect to the 2010 Winter Olympic Games and the G8/G20 Summit in Toronto.  This is some very basic Retrieval Augmented Generation work, and 
+I'm sure I can modify this to provide insights into other documents.
+
+The most computationally expensive task is cleaning the data.
 
 ## OK, WHAT IS THIS?
 
